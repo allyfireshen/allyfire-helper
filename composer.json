@@ -1,0 +1,16 @@
+{
+    "name": "allyfireshen/allyfire-helper",
+    "description": "Some helper functions",
+    "authors": [
+        {
+            "name": "allyfireshen",
+            "email": "allyfireshen@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "allyfireshen\\": "src/"
+        }
+    }
+}
